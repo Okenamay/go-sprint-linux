@@ -6,7 +6,7 @@
 #   dir2
 #   dir3
 #       dir4
-mkdir -p /tmp/task/dir1 /tmp/task/dir2 /tmp/task/dir3/dir4
+mkdir -p /task/dir1 /task/dir2 /task/dir3/dir4
 
 # изменяем текущую директорию на task
 cd ./task
